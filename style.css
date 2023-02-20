@@ -1,0 +1,30 @@
+*{
+    background-color: hsl(212, 45%, 89%);
+    font-family: 'Outfit', sans-serif;
+}
+
+#image1{
+    width: 250px;
+    height: 250px;
+    border-radius: 5px;
+}
+div{
+    background-color: white;
+    width: 250px;
+    height: 390px;
+    border-radius: 10px;
+    margin: 200px auto;
+    padding: 15px 15px 30px;
+    text-align: center;  
+
+}
+#para1{
+    font-size: 20px;
+    font-family: 'Outfit', sans-serif;
+    font-weight: bold;
+}
+
+#para2{
+    font-size: 14px;
+    color:hsl(220, 15%, 55%);
+}
